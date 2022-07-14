@@ -6,7 +6,7 @@ body {
     height: 950px;
     display: flex;
     flex-wrap:wrap ;
-    border: solid 2px rgb(30, 0, 255);
+    border: solid 2px rgb(200, 255, 0);
     align-items:baseline;
     justify-content:center
     
