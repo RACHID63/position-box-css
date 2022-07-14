@@ -1,0 +1,102 @@
+body {
+
+    background: red;
+}
+.container {
+    height: 950px;
+    display: flex;
+    flex-wrap:wrap ;
+    border: solid 2px rgb(30, 0, 255);
+    align-items:baseline;
+    justify-content:center
+    
+    
+
+}
+
+.position {
+
+    display: flex;
+
+
+}
+
+
+.box {
+
+    width: 200px;
+    height: 250px;
+    border-radius: 8px;
+    display: flex;
+    margin: 10px;
+    font-size: 15px;
+    font-family: cursive;
+    border: solid 2px rgb(30, 0, 255);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}
+
+.entête {
+
+   
+display: flex;
+
+
+}
+
+span {
+    margin: auto;
+
+}
+
+img {
+
+    MARGIN-LEFT: 10px;
+}
+
+.absolute {
+
+    background-color: rgb(214, 255, 80);
+    border: solid 3px;
+
+}
+
+p {
+
+width: 164px;
+    font-size: 13px;
+
+}
+
+#burgers {
+   width: 50px;
+   height: 50px;
+
+}
+
+.Profit {
+
+    background-color: rgb(80, 255, 115);
+    border: solid 3px;
+
+}
+
+.agence {
+
+    background-color: coral;
+    border: solid 3px;
+
+}
+
+
+.retour {
+
+    background-color:cornflowerblue;
+    border: solid 3px;
+
+}
